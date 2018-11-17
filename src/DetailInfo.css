@@ -1,0 +1,24 @@
+.span-data-label {
+  display: inline-block;
+  line-height: 30px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.span-data-value {
+  display: inline-block;
+  line-height: 30px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.and-mark {
+  display: inline-block;
+  line-height: 30px;
+  overflow: hidden;
+  width: 4%;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
